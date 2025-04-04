@@ -1,0 +1,3 @@
+telethon
+requests
+filestack-python
