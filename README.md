@@ -47,6 +47,6 @@ The Telegram Members Adder is an easy solution to build communities.
 
 ### IMPORTANT: DONT TOUCH THE NUMBERS AND NUMBERS_BACKUP FILE! IF YOU WANT TO DELETE ACCOUNTS FROM THE APP THEN USE THE DELETE FUNCTION FROM THE main.pyc APP!
 
-More features will be added soon
+More features will be added soon.
 
 
