@@ -26,6 +26,7 @@ The Telegram Members Adder is an easy solution to build communities.
 ***
 
 ## TUTORIAL:
+Read the TUTORIAL & INSTALL.pdf file for a more detailed tutorial.
 ### INSTALLATION:
 1. Install Python 3.12: https://www.python.org/downloads/release/python-3120/ (While installing, make sure to check the option: Add to PATH)
 2. Open cmd and install the requirements with this command: 
